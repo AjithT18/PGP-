@@ -4,7 +4,7 @@ This project demonstrates a lightweight and user-friendly email security system 
 The goal of this application is to show how layered security techniques like asymmetric encryption, hybrid cryptography, and digital signatures can provide strong protection for modern communication.
 
 ## ✨ Features
-🔐 1. Generate PGP Keypair
+### 🔐 1. Generate PGP Keypair
 
 Users can create their own RSA public–private keys.
 
@@ -12,7 +12,7 @@ Keys are generated locally inside the browser for maximum privacy.
 
 Public key can be shared; private key stays with the user.
 
-✉️ 2. Encrypt & Sign Messages
+### ✉️ 2. Encrypt & Sign Messages
 
 Enter the recipient’s public key and your message.
 
@@ -20,7 +20,7 @@ Your private key passphrase is used for signature creation.
 
 The system outputs a fully encrypted and digitally signed PGP message.
 
-🔎 3. Decrypt & Verify Messages
+### 🔎 3. Decrypt & Verify Messages
 
 Paste an incoming encrypted message.
 
@@ -30,7 +30,7 @@ Provide the sender’s public key to verify their signature.
 
 The decrypted plaintext is displayed only if verification succeeds.
 
-🧰 Tech Stack
+### 🧰 Tech Stack
 
 React.js – Frontend framework
 
@@ -43,7 +43,7 @@ Local Storage / In-Memory – Temporary key handling
 <img width="332" height="387" alt="image" src="https://github.com/user-attachments/assets/602bcc63-ba6e-40d8-8c9a-d419ddb3b1ef" />
 
 
-🚀 How to Run the Project Locally
+## 🚀 How to Run the Project Locally
 
 Clone the repository:
 
@@ -73,7 +73,7 @@ No backend server is required for cryptographic operations.
 
 This project is intended for educational and demonstration purposes.
 
-📘 Purpose of the Project
+## 📘 Purpose of the Project
 
 This application was developed as part of a study on Layered Email Security, focusing on:
 
@@ -87,7 +87,7 @@ Decentralized security without certificate authorities
 
 It aims to show how PGP can protect communication in distributed and cloud-based environments.
 
-📄 Screenshots
+## 📄 Screenshots
 
 Generate Keypair
 <img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/190ad6cf-ddf5-4d90-a662-11514b24e00d" />
@@ -102,6 +102,6 @@ Decrypt & Verify Message
 
 
 
-📝 License
+## 📝 License
 
 This project is open-source and free to use for learning and research.
