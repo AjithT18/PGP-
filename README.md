@@ -1,4 +1,4 @@
-#PGP Secure Email – A Layered Email Security System Using PGP Encryption
+# PGP Secure Email – A Layered Email Security System Using PGP Encryption
 
 This project demonstrates a lightweight and user-friendly email security system built using PGP (Pretty Good Privacy). It allows users to generate keypairs, encrypt and digitally sign messages, and decrypt and verify incoming messages—all directly in the browser using OpenPGP.js.
 The goal of this application is to show how layered security techniques like asymmetric encryption, hybrid cryptography, and digital signatures can provide strong protection for modern communication.
@@ -40,19 +40,8 @@ JavaScript / HTML / CSS – UI and logic
 
 Local Storage / In-Memory – Temporary key handling
 
-📁 Project Structure
-pgp-secure-email/
-│── public/
-│── src/
-│    ├── components/
-│    │     ├── GenerateKeys.js
-│    │     ├── EncryptSign.js
-│    │     ├── DecryptVerify.js
-│    ├── App.js
-│    ├── index.js
-│── package.json
-│── .gitignore
-│── README.md
+<img width="332" height="387" alt="image" src="https://github.com/user-attachments/assets/602bcc63-ba6e-40d8-8c9a-d419ddb3b1ef" />
+
 
 🚀 How to Run the Project Locally
 
