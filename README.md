@@ -3,7 +3,7 @@
 This project demonstrates a lightweight and user-friendly email security system built using PGP (Pretty Good Privacy). It allows users to generate keypairs, encrypt and digitally sign messages, and decrypt and verify incoming messages—all directly in the browser using OpenPGP.js.
 The goal of this application is to show how layered security techniques like asymmetric encryption, hybrid cryptography, and digital signatures can provide strong protection for modern communication.
 
-✨ Features
+## ✨ Features
 🔐 1. Generate PGP Keypair
 
 Users can create their own RSA public–private keys.
